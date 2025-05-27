@@ -82,6 +82,7 @@ it in future.
 * run_simScript.py: remove --muShieldDesign flag
 * Remove unused straw veto station
 * ShipAna.py: remove broken calorimetry
+* feat(geometry): remove TP liquid scintillator variables
 
 ## 25.01
 
